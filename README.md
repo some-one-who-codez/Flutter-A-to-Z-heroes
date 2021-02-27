@@ -2,8 +2,8 @@
 
 This is the source code for [this](https://youtu.be/08MoYO-a-_M) tutorial
 
-[Youtube](https://www.youtube.com/channel/UCgzDyB6FRT2sNhh0QhB7gtQ`)
-[Instagram](https://www.instagram.com/some.one.who.codez/)
+- [Youtube](https://www.youtube.com/channel/UCgzDyB6FRT2sNhh0QhB7gtQ`)
+- [Instagram](https://www.instagram.com/some.one.who.codez/)
 
 ## Documentation
 Click [here](https://api.flutter.dev/flutter/widgets/Hero-class.html) for the hero widget documentation
